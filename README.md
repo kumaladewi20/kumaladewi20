@@ -11,8 +11,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/kumaladewichandraasih/](https://www.linkedin.com/in/kumaladewichandraasih/)
 
-- ⚡ Fun fact I’m not just into tech. I’m also a low-key bookworm! You can catch me diving into random historical stories or getting lost in articles about astronomy and unique histories. Oh, and I’m a big fan of art 🎨.
-- 
+- ⚡ Fun fact I’m not just into tech. I’m also a low-key bookworm! You can catch me diving into random historical stories or getting lost in articles about astronomy and unique histories. Oh, and I’m a big fan of art🎨
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kumala dewi chandra asih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumala dewi chandra asih" height="30" width="40" /></a>
