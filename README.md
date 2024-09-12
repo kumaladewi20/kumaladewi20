@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on creating a personal portfolio website while continuously learning new skills in software engineering
 
-- 🌱 I’m currently learning React.js, Flutter, and Shell Scripting
+- 🌱 I’m currently learning React.js and Shell Scripting
 
 - 📫 How to reach me kumaladewi2178@gmail.com
 
